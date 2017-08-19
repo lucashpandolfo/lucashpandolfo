@@ -1,5 +1,5 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
+title: OdontoSP | Estética y salud dental
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
@@ -8,23 +8,21 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Odonto SP
+    hero_description: Estética y salud dental
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: 4522-8197
+    emergency: 15 2237-4895
+    email: odontospestetica@gmail.com
+    address: Viamonte 2188 <br> CABA - Buenos Aires <br> Argentina
 
-# Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+
+
 
 # Testimonials
 testimonials:
@@ -33,19 +31,16 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Viamonte 2188, CABA, Buenos Aires, Argentina
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
-feed: yes
+facebook: http://facebook.com/odontospestetica/
+instagram: http://instagram.com/odontosp/
+feed: no
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2017 OdontoSP - Todos los derechos reservados
 
 # Build settings
 markdown: kramdown

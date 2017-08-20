@@ -9,7 +9,7 @@ logo_url: svg/min/logo.svg
 hero: 
     hero_img: hero.jpg
     hero_title: Odonto SP
-    hero_description: Consultorio odontológico especializado en estética y salud dental
+    hero_description: Consultorio odontológico especializado en estética y salud dental.
 
 # Contact form
 api_token: # Enter API token here

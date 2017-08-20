@@ -2,14 +2,14 @@
 title: OdontoSP | Estética y salud dental
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+url: "odontosp.com.ar" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
     hero_img: hero.jpg
     hero_title: Odonto SP
-    hero_description: Estética y salud dental
+    hero_description: Consultorio odontológico especializado en estética y salúd dental
 
 # Contact form
 api_token: # Enter API token here
@@ -20,9 +20,6 @@ contact:
     emergency: 15 2237-4895
     email: odontospestetica@gmail.com
     address: Viamonte 2188 <br> CABA - Buenos Aires <br> Argentina
-
-
-
 
 # Testimonials
 testimonials:
@@ -35,9 +32,8 @@ map:
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com/odontospestetica/
 instagram: http://instagram.com/odontosp/
-feed: no
+facebook: http://facebook.com/odontospestetica/
 
 # Footer
 copyright: © 2017 OdontoSP - Todos los derechos reservados

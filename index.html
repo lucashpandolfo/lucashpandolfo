@@ -145,17 +145,36 @@ layout: default
 
 <!-- Start Our team -->
 <div id="team" class="team"> 
-    <h2 class="section-title">El Odontólogo</h2>
-    <div id="team-carousel">
+  <h2 class="section-title">El Odontólogo</h2>
+  <div class="team-container">
+    <div class="foto">
+      <img src="{{ site.baseurl }}/img/{{ site.data.team.image }}" alt="{{ site.data.team.name }}">
+      <h4>{{ site.data.team.name }}</h4>
+      <h8>{{ site.data.team.description }}</h6>
+    </div>
+    <div class="description">
+      <h2>{{ site.data.team.text }}</h2>
+    </div>
+  </div>
+
+  <!--
+  <div id="team-carousel">
     {% for member in site.data.team %}
-        <div class="expandable-box">
-            <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}/img/{{ member.image }}" alt="{{ member.name }}">
-                <h4>{{ member.name }}</h4>
-            </div>
-        </div>
+    <div class="expandable-box">
+      <div class="expandable-box-top">
+        <img src="{{ site.baseurl }}/img/{{ member.image }}" alt="{{ member.name }}">
+        <h4>{{ member.name }}</h4>
+      </div>
+      <div class="expandable-box-bottom">
+        <a href="mailto:{{ member.email }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg></a>
+        </a>
+        <a href="tel:{{ member.phone }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.phone }}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a>
+        </a>
+      </div>
+    </div>
     {% endfor %}
     </div>
+    -->
 </div>
 <!-- End Our team -->
 

@@ -12,7 +12,7 @@ hero:
     hero_description: Consultorio odontológico especializado en estética y salud dental.
 
 # Contact form
-api_token: # Enter API token here
+api_token: d1328929419a4306133901aeb09bed4c # Enter API token here
 
 # Contact info
 contact:

@@ -1169,14 +1169,14 @@ $.magnificPopup.registerModule('image', {
 						'<div class="mfp-img"></div>'+
 						'<figcaption>'+
 							'<div class="mfp-bottom-bar">'+
-								'<div class="mfp-title"></div>'+
+                                                                '<div class="mfp-title"></div>'+
 								'<div class="mfp-counter"></div>'+
 							'</div>'+
 						'</figcaption>'+
 					'</figure>'+
 				'</div>',
 		cursor: 'mfp-zoom-out-cur',
-		titleSrc: 'title', 
+                titleSrc: 'title',
 		verticalFit: true,
 		tError: '<a href="%url%">The image</a> could not be loaded.'
 	},

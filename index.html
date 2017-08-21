@@ -190,7 +190,7 @@ layout: default
   <h2 class="section-title">Galería</h2>
 
   {% for images in site.data.gallery %}
-  <a href="{{ site.baseurl }}/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link">
+  <a href="{{ site.baseurl }}/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link" title="{{ images.image_alt }}">
     <div class="expandable-box-top">
       <img src="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}">
     </div>

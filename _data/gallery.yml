@@ -1,31 +1,31 @@
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: carillas.jpg
+  image_large: carillas.jpg
+  image_alt: Carillas
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: implante.jpg
+  image_large: implante.jpg
+  image_alt: Implante
 
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: puente-real.jpg
+  image_large: puente-real.jpg
+  image_alt: Puente
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: diastemas.jpg
+  image_large: diastemas.jpg
+  image_alt: Cierre de diastemas
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: bruxismo.jpg
+  image_large: bruxismo.jpg
+  image_alt: Reparación de un paciente con bruxismo
 
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: sarro.jpg
+  image_large: sarro.jpg
+  image_alt: Limpieza de sarro
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: reparacion.jpg
+  image_large: reparacion.jpg
+  image_alt: Reparación
 
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: sonrisa.jpg
+  image_large: sonrisa.jpg
+  image_alt: Diseño de sonrisa

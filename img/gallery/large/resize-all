@@ -1,0 +1,1 @@
+for i in * ;do convert sonrisa.jpg -resize 500x333^ -gravity center -extent 500x333 ../thumb/sonrisa.jpg ; done

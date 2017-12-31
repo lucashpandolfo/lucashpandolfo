@@ -1,23 +1,23 @@
-- icon: icon-user-md
+- icon: img/icons/diagnostico.svg
   title: Diagnóstico Completo
   description: Observación y evaluación de la condición dentaria inicial.
 
-- icon: icon-diamond
+- icon: img/icons/limpieza.svg
   title: Limpieza Dental
   description: Se procede a realizar una limpieza dental para mantener la higiene y salud de toda la boca.
 
-- icon: icon-flask
+- icon: img/icons/blanqueamiento.svg
   title: Blanqueamiento
   description: Dientes más blancos, sonrisa radiante. Otorgamos un kit de blanquemiento personalizado a cada paciente
 
-- icon: icon-globe
+- icon: img/icons/disenio.svg
   title: Diseño de sonrisa
   description: Planificación de una sonrisa a partir del proceso de encerado.
 
-- icon: icon-ambulance
+- icon: img/icons/carillas.svg
   title: Carillas dentales
   description: Microcarillas o carillas lente, carillas de porcelana, y todo tipo de carillas, sistema directo o indirecto.
 
-- icon: icon-bed
+- icon: img/icons/implantes.svg
   title: Implantes y Prótesis
   description: Solución estetico-funcional para reemplazar una pieza dentaria faltante o dañada.

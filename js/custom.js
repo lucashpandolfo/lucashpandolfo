@@ -118,7 +118,7 @@
      ----------------------------------------------*/
 
   var wa_link = $("#wa-link");
-  var wa_args = "phone=5491122374895&text=olakase";
+  var wa_args = "phone=5491122374895";
 
   if(window.isMobile()){
     wa_link.attr("href", "https://api.whatsapp.com/send?"+wa_args);

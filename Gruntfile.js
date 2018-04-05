@@ -41,7 +41,7 @@ module.exports = function (grunt) {
 
         shell : {
             jekyllServe : {
-                command : 'jekyll serve'
+                command : 'jekyll serve --host=0.0.0.0'
             },
 
             jekyllBuild : {

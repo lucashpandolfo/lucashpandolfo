@@ -19,7 +19,9 @@ contact:
     phone: 4522-8197
     emergency: +54 9 11 2237-4895
     email: odontospestetica@gmail.com
-    address: Viamonte 2188 <br> CABA - Buenos Aires <br> Argentina
+    address: Larrea 1273 <br> CABA - Buenos Aires <br> Argentina
+
+dias_atencion: Miércoles, Viernes y Sábados de 14:00 a 18:30 hs
 
 # Testimonials
 testimonials:
@@ -28,7 +30,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Viamonte 2188, CABA, Buenos Aires, Argentina
+    address: Larrea 1273, CABA, Buenos Aires, Argentina
     address_details: svg/min/logo.svg
 
 # Social settings

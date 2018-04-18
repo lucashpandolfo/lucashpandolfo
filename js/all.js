@@ -8483,9 +8483,10 @@ $.fn.gmap3 = function () {
 })(jQuery);
 
 
-
 (function($) {
   'use strict';
+
+
 
   /* Hide menu after click
      ----------------------------------------------*/
@@ -8602,7 +8603,7 @@ $.fn.gmap3 = function () {
      ----------------------------------------------*/
 
   var wa_link = $("#wa-link");
-  var wa_args = "phone=5491122374895";
+  var wa_args = "phone=5491122374895&text=%20%20";
 
   if(window.isMobile()){
     wa_link.attr("href", "https://api.whatsapp.com/send?"+wa_args);

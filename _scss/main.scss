@@ -28,3 +28,41 @@
 
 @import "vendor/owl-carousel";
 @import "vendor/magnific-popup";
+
+#wa-link{
+    color: black;
+}
+
+#wa-link:visited{
+    color: black;
+}
+
+#wa-container{
+    display: flex;
+}
+
+#wa-input{
+   // border: none;
+    border-radius: 5px;
+}
+
+#wa-send{
+    width: 24px;
+    height: 24px;
+    margin-right: 0px;
+
+    margin-left: 10px;
+    padding-top: 4px;
+    cursor: pointer;
+    svg{
+        color: black;
+    }
+}
+
+.icon-wa-send{
+
+    margin-right: 0px !important;
+    width: 24px;
+    height: 24px;
+
+}

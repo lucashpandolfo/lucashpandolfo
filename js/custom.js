@@ -118,15 +118,25 @@
   /* Whatsapp url
      ----------------------------------------------*/
 
-  var wa_link = $("#wa-link");
-  var wa_args = "phone=5491122374895&text=%E2%83%A8";
+  function wa_setup(){
+    var wa_link = $("#wa-link");
+    var wa_link2 = $("#wa-send");
+    var wa_text = $("#wa-input").val() || "";
+    var wa_args = "phone=5491122374895&text=%E2%83%A8"+encodeURIComponent(wa_text);
 
-  if(window.isMobile()){
-    wa_link.attr("href", "https://api.whatsapp.com/send?"+wa_args);
+    if(window.isMobile()){
+      wa_link.attr("href", "https://api.whatsapp.com/send?"+wa_args);
+      wa_link2.attr("href", "https://api.whatsapp.com/send?"+wa_args);
+    }
+    else{
+      wa_link.attr("href", "https://web.whatsapp.com/send?"+wa_args);
+      wa_link2.attr("href", "https://web.whatsapp.com/send?"+wa_args);
+    }
   }
-  else{
-    wa_link.attr("href", "https://web.whatsapp.com/send?"+wa_args);
-  }
+
+  wa_setup();
+
+  $("#wa-input").change(wa_setup);
 
 })(jQuery);
 

@@ -16,7 +16,7 @@ api_token: d1328929419a4306133901aeb09bed4c # Enter API token here
 
 # Contact info
 contact:
-    phone: 4522-8197
+    #phone: 4522-8197
     emergency: +54 9 11 2237-4895
     email: odontospestetica@gmail.com
     address: Larrea 1273 <br> CABA - Buenos Aires <br> Argentina

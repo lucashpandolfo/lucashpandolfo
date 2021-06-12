@@ -19,7 +19,7 @@ contact:
     #phone: 4522-8197
     emergency: +54 9 11 2237-4895
     email: odontospestetica@gmail.com
-    address: Larrea 1273 <br> CABA - Buenos Aires <br> Argentina
+    address: Paraná 200 <br> CABA - Buenos Aires <br> Argentina
 
 dias_atencion: Miércoles, Viernes y Sábados de 14:00 a 18:30 hs
 
@@ -30,7 +30,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Larrea 1273, CABA, Buenos Aires, Argentina
+    address: Paraná 200, CABA, Buenos Aires, Argentina
     address_details: svg/min/logo.svg
 
 # Social settings
@@ -38,7 +38,7 @@ instagram: http://instagram.com/odontosp/
 facebook: http://facebook.com/odontospestetica/
 
 # Footer
-copyright: © 2017 OdontoSP - Todos los derechos reservados
+copyright: © 2021 OdontoSP - Todos los derechos reservados
 
 # Build settings
 markdown: kramdown
